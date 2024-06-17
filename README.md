@@ -1,0 +1,1 @@
+Google homepage clone built with the help of Scrimba courses.
